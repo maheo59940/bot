@@ -48,7 +48,7 @@ var botConfigs = {
     {
         "id": 0,
         "name": "Purge messages",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!purge 20",
@@ -70,7 +70,7 @@ var botConfigs = {
     {
         "id": 2,
         "name": "Kick user",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!kick @user spam",
@@ -81,7 +81,7 @@ var botConfigs = {
     {
         "id": 3,
         "name": "Ban user",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!ban @user spam",
@@ -92,7 +92,7 @@ var botConfigs = {
     {
         "id": 4,
         "name": "Report user",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!report @user spam",
@@ -103,7 +103,7 @@ var botConfigs = {
     {
         "id": 5,
         "name": "Temp mute user",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!tempmute @user 10s",
@@ -136,7 +136,7 @@ var botConfigs = {
     {
         "id": 8,
         "name": "Music - Export only",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!play {YouTube URL}, !leave, !pause, !resume, !queue, !skip",
@@ -147,7 +147,7 @@ var botConfigs = {
     {
         "id": 9,
         "name": "Channel lockdown",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!lockdown 10s",
@@ -158,7 +158,7 @@ var botConfigs = {
     {
         "id": 10,
         "name": "Shutdown command",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!shutdown",
@@ -169,7 +169,7 @@ var botConfigs = {
     {
         "id": 11,
         "name": "Banned words",
-        "activated": false,
+        "activated": true,
         "config": "bannedwords",
         "info": {
             "example": "",
@@ -180,7 +180,7 @@ var botConfigs = {
     {
         "id": 12,
         "name": "Ticket system",
-        "activated": false,
+        "activated": true,
         "config": "ticketSystem",
         "info": {
             "example": "!ticket I cant find Bob",
@@ -213,7 +213,7 @@ var botConfigs = {
     {
         "id": 15,
         "name": "Warn",
-        "activated": false,
+        "activated": true,
         "config": "",
         "info": {
             "example": "!Warn @zit_x_us#9951",
