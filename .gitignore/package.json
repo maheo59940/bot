@@ -1,11 +1,11 @@
 {
-  "name": "discord-bot",
-  "productName": "Discord Bot - Controls",
-  "version": "0.1.0",
-  "description": "Discord Bot - Controls",
+  "name": "GPFR",
+  "productName": "Discord Bot - GPFR",
+  "version": "1.0",
+  "description": "Discord Bot - GPFR",
   "main": "bot.js",
   "author": {
-    "name": "DBC"
+    "name": "GPFR"
   },
   "scripts": {
     "start": "node bot"
