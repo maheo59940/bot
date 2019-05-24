@@ -33,7 +33,7 @@ const configs = require("./configs.json");
 const timestamp = require("console-timestamp");
 var botConfigs = {
     token: "NTc4MTE4MjA4NTY2MDY3MjMx.XNwBrw.DPKHLdQPFpxbur_fVMlyf7O-s-Q",
-    prefix: "!",
+    prefix: "!!",
     gameStatus: "en dev ",
     statusType: "PLAYING",
     commands: [
